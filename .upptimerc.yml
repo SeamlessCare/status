@@ -7,6 +7,8 @@ sites:
     url: https://portal.seamlesscare.ca
   - name: Wikipedia
     url: https://app.seamlesscare.ca
+assigness:
+  - ahmedyounis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
