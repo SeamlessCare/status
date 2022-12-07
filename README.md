@@ -34,4 +34,6 @@
 <!--end: status pages-->
 
 
-
+## check the status 
+https://raw.githubusercontent.com/seamlesscare/status/master/api/home-portal/uptime.json
+https://raw.githubusercontent.com/seamlesscare/status/master/api/pharmacy-app/uptime.json
