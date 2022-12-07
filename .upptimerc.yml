@@ -3,9 +3,9 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
+  - name: Home Portal
     url: https://portal.seamlesscare.ca
-  - name: Wikipedia
+  - name: Pharmacy App
     url: https://app.seamlesscare.ca
 assigness:
   - ahmedyounis
