@@ -3,6 +3,10 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: test
+    url: https://portal.seamlesscare.ca
+  - name: test2
+    url: https://app.seamlesscare.ca
   - name: Home Portal
     url: https://portal.seamlesscare.ca
   - name: Pharmacy App
