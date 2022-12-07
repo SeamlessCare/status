@@ -1,5 +1,9 @@
 # [📈 Live Status](https://status.seamlesscare.ca): <!--live status--> **🟩 All systems operational**
 
+![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fseamlesscare%2Fstatus%2Fmaster%2Fapi%2Fhome-portal%2Fuptime.json)
+
+![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fseamlesscare%2Fstatus%2Fmaster%2Fapi%2Fhome-portal%2Fresponse-time.json)
+
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/seamlesscare/status/workflows/Uptime%20CI/badge.svg)](https://github.com/seamlesscare/status/actions?query=workflow%3A%22Uptime+CI%22)
