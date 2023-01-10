@@ -4,19 +4,19 @@
     "url": "https://portal.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 2194,
-    "timeWeek": 769,
-    "timeMonth": 410,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 403,
+    "timeDay": 1548,
+    "timeWeek": 712,
+    "timeMonth": 406,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 11
     }
   },
   {
