@@ -1,7 +1,7 @@
 url: https://portal.seamlesscare.ca
-status: down
-code: 502
-responseTime: 4077
-lastUpdated: 2023-01-10T13:13:15.645Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2023-01-10T13:24:43.545Z
 startTime: Wed Dec 07 2022 04:22:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
