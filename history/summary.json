@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 403,
-    "timeDay": 1548,
-    "timeWeek": 712,
-    "timeMonth": 406,
-    "timeYear": 403,
-    "dailyMinutesDown": {
-      "2023-01-10": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 402,
+    "timeDay": 1566,
+    "timeWeek": 726,
+    "timeMonth": 408,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pharmacy App",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 319,
-    "timeWeek": 264,
+    "time": 300,
+    "timeDay": 325,
+    "timeWeek": 275,
     "timeMonth": 287,
-    "timeYear": 299,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 49,
-    "timeDay": 58,
-    "timeWeek": 49,
+    "time": 48,
+    "timeDay": 37,
+    "timeWeek": 42,
     "timeMonth": 44,
-    "timeYear": 49,
+    "timeYear": 48,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 29,
-    "timeWeek": 34,
+    "timeDay": 66,
+    "timeWeek": 42,
     "timeMonth": 36,
     "timeYear": 41,
     "dailyMinutesDown": {}
