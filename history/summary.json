@@ -4,18 +4,20 @@
     "url": "https://portal.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 126,
-    "timeWeek": 719,
-    "timeMonth": 408,
-    "timeYear": 393,
-    "dailyMinutesDown": {}
+    "time": 479,
+    "timeDay": 2112,
+    "timeWeek": 1057,
+    "timeMonth": 516,
+    "timeYear": 479,
+    "dailyMinutesDown": {
+      "2023-01-13": 0
+    }
   },
   {
     "name": "Pharmacy App",
