@@ -22,19 +22,19 @@
     "url": "https://app.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/app.seamlesscare.ca.ico",
     "slug": "pharmacy-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 295,
-    "timeWeek": 279,
-    "timeMonth": 356,
+    "timeDay": 306,
+    "timeWeek": 284,
+    "timeMonth": 354,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 6
     }
   },
   {
