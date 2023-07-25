@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 170,
-    "timeWeek": 275,
-    "timeMonth": 318,
-    "timeYear": 379,
+    "time": 380,
+    "timeDay": 403,
+    "timeWeek": 288,
+    "timeMonth": 326,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "pharmacy-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 306,
-    "timeWeek": 284,
-    "timeMonth": 354,
+    "timeDay": 326,
+    "timeWeek": 297,
+    "timeMonth": 360,
     "timeYear": 306,
-    "dailyMinutesDown": {
-      "2023-07-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Portal Ping",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 34,
-    "timeWeek": 33,
-    "timeMonth": 33,
+    "timeDay": 33,
+    "timeWeek": 31,
+    "timeMonth": 34,
     "timeYear": 47,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 29,
+    "timeDay": 37,
     "timeWeek": 26,
-    "timeMonth": 30,
+    "timeMonth": 31,
     "timeYear": 40,
     "dailyMinutesDown": {}
   }
