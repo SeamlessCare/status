@@ -4,19 +4,19 @@
     "url": "https://portal.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "86.29%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.96%",
-    "time": 322,
-    "timeDay": 233,
-    "timeWeek": 292,
-    "timeMonth": 384,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "72.88%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.93%",
+    "time": 321,
+    "timeDay": 223,
+    "timeWeek": 282,
+    "timeMonth": 378,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-07-23": 197
+      "2024-07-23": 391
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/app.seamlesscare.ca.ico",
     "slug": "pharmacy-app",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "85.46%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.96%",
-    "time": 298,
-    "timeDay": 203,
-    "timeWeek": 241,
-    "timeMonth": 297,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "72.05%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.92%",
+    "time": 299,
+    "timeDay": 199,
+    "timeWeek": 235,
+    "timeMonth": 294,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-07-23": 209
+      "2024-07-23": 403
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "portal.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-portal-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "86.49%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 24,
-    "timeDay": 1,
+    "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 5,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2024-07-23": 1
+      "2024-07-23": 195
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "app.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pharmacy-app-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 22,
-    "timeDay": 1,
+    "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 6,
     "timeYear": 15,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 193
     }
   }
 ]
