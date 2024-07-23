@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.96%",
     "time": 322,
     "timeDay": 233,
     "timeWeek": 292,
     "timeMonth": 384,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 197
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.seamlesscare.ca.ico",
     "slug": "pharmacy-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "85.46%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.96%",
     "time": 298,
     "timeDay": 203,
     "timeWeek": 241,
     "timeMonth": 297,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-07-23": 12
+      "2024-07-23": 209
     }
   },
   {
@@ -44,10 +44,10 @@
     "url": "portal.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-portal-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 24,
@@ -55,16 +55,18 @@
     "timeWeek": 3,
     "timeMonth": 5,
     "timeYear": 17,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 1
+    }
   },
   {
     "name": "Pharmacy App Ping",
     "url": "app.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pharmacy-app-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +75,8 @@
     "timeWeek": 3,
     "timeMonth": 6,
     "timeYear": 15,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   }
 ]
