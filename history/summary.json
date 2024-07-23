@@ -22,18 +22,20 @@
     "url": "https://app.seamlesscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/app.seamlesscare.ca.ico",
     "slug": "pharmacy-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 147,
-    "timeWeek": 238,
-    "timeMonth": 298,
+    "timeDay": 203,
+    "timeWeek": 241,
+    "timeMonth": 297,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Home Portal Ping",
