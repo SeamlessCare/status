@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.seamlesscare.ca.ico",
     "slug": "home-portal",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 322,
-    "timeDay": 766,
-    "timeWeek": 380,
-    "timeMonth": 374,
-    "timeYear": 324,
+    "timeDay": 204,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2024-07-23": 391
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
-    "time": 297,
-    "timeDay": 405,
-    "timeWeek": 234,
-    "timeMonth": 287,
-    "timeYear": 290,
+    "time": 296,
+    "timeDay": 176,
+    "timeWeek": 223,
+    "timeMonth": 279,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2024-07-23": 403
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 23,
-    "timeDay": 9,
-    "timeWeek": 5,
+    "timeDay": 2,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 16,
     "dailyMinutesDown": {
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 21,
-    "timeDay": 8,
-    "timeWeek": 5,
+    "timeDay": 2,
+    "timeWeek": 4,
     "timeMonth": 6,
     "timeYear": 14,
     "dailyMinutesDown": {
